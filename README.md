@@ -5,3 +5,5 @@ and this is my
 
 this is my second
 COMMIT
+
+third commit
