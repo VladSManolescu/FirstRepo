@@ -1,11 +1,10 @@
 hello
-my name is Stefan
+this name is Stefan
 and this is my
 #FirstRepo
 
-this is my second
-COMMIT
-
+why no conflict
+i want a conflict
 third commit
 
 
